@@ -1,4 +1,4 @@
 # Heart-Disease-Prediction
-Disease-Coronary Artry
-Data Preprocessing And Analysis
-Feature Extraction
+#Disease-Coronary-Artry
+#Data-Preprocessing-And-Analysis
+#Feature-Extraction
